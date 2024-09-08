@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\controllers\\usercontrols\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:controllers\\usercontrols\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\api\\userloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:api\\userloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\api\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:api\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\api\\users\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:api\\users\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\services\\users\\userservicedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:services\\users\\userservicedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\apiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:apiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|c:\\users\\aurelie\\source\\repos\\apiproject\\apiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{529347C1-F3C6-4373-828A-157B274C7A97}|APIProject.csproj|solutionrelative:apiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:33:57.643Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Api\\UserApi.cs",
+              "RelativeDocumentMoniker": "Api\\UserApi.cs",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Api\\UserApi.cs",
+              "RelativeToolTip": "Api\\UserApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:44:42.261Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServiceDi.cs",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Services\\Users\\UserServiceDi.cs",
+              "RelativeDocumentMoniker": "Services\\Users\\UserServiceDi.cs",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Services\\Users\\UserServiceDi.cs",
+              "RelativeToolTip": "Services\\Users\\UserServiceDi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:38:52.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Services\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Users\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Services\\Users\\IUserService.cs",
+              "RelativeToolTip": "Services\\Users\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:16:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Api\\UserLoginRequest.cs",
+              "RelativeDocumentMoniker": "Api\\UserLoginRequest.cs",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Api\\UserLoginRequest.cs",
+              "RelativeToolTip": "Api\\UserLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:36:05.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Api\\Users\\CreateUser.cs",
+              "RelativeDocumentMoniker": "Api\\Users\\CreateUser.cs",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Api\\Users\\CreateUser.cs",
+              "RelativeToolTip": "Api\\Users\\CreateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:38:27.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Controllers\\UserControls\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserControls\\UserController.cs",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Controllers\\UserControls\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserControls\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:24:48.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "APIProject.http",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\APIProject.http",
+              "RelativeDocumentMoniker": "APIProject.http",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\APIProject.http",
+              "RelativeToolTip": "APIProject.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-08T16:45:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIProject",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\APIProject.csproj",
+              "RelativeDocumentMoniker": "APIProject.csproj",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\APIProject.csproj",
+              "RelativeToolTip": "APIProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T15:59:41.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T15:33:55.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Users\\UserService.cs",
+              "ToolTip": "C:\\Users\\Aurelie\\source\\repos\\APIProject\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "Services\\Users\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:01:10.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
