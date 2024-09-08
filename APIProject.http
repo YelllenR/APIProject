@@ -1,0 +1,13 @@
+@APIProject_HostAddress = http://localhost:5025
+
+
+GET {{APIProject_HostAddress}}/user/
+Accept: application/json
+
+###
+
+POST {{APIProject_HostAddress}}/user
+{
+  "Email": "aurelie@rosedarbon.com", 
+  "Password"" : ""
+}
